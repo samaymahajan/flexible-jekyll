@@ -1,8 +1,6 @@
 title: Hello, world! I'm Samay Mahajan
 description: > # this means to ignore newlines until "baseurl:"
-  Engineering is in my genetic memory. I am a quick learner and solution oriented person, love to explore how things works, DIY stuff, fix broken things, sometime doing frugal innovation(jugaad). I am both technology and photography enthusiastic.
-Having overall 10+ years of experience with good organisations like Sapient, Royal Bank of Scotland, Birlasoft. I started my career with .Net development, but my technology enthusiasm helps me to explore new areas to learn and I finally adapted to DevOps Culture. Now, I am full time DevOps Engineer. 
-Having expertise in Continuos Integration, Continuos Deployment, containerisation, Google Cloud, Powershell Scripting and Automation Solutions. Also having good experience with full stack web development, using NodeJS, ReactJS, Express and MongoDB.
+  Engineering is in my genetic memory. I am a quick learner and solution oriented person, love to explore how things works, DIY stuff, fix broken things, sometime doing frugal innovation(jugaad). I am both technology and photography enthusiastic. Having overall 10+ years of experience with good organisations like Sapient, Royal Bank of Scotland, Birlasoft. I started my career with .Net development, but my technology enthusiasm helps me to explore new areas to learn and I finally adapted to DevOps Culture. Now, I am full time DevOps Engineer. Having expertise in Continuos Integration, Continuos Deployment, containerisation, Google Cloud, Powershell Scripting and Automation Solutions. Also having good experience with full stack web development, using NodeJS, ReactJS, Express and MongoDB.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://samaymahajan.com" # the base hostname & protocol for your site, e.g. http://example.com
