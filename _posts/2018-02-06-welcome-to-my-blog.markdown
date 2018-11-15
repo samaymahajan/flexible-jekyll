@@ -7,7 +7,7 @@ img:   welcome.jpg
 tags: [personal, welcome]
 ---
 
-Welcome to My Blog...My Website...samaymahajan.com[www.samaymahajan.com]
+Welcome to My Blog...My Website...[samaymahajan.com](https://www.samaymahajan.com)
 
 After lot of procastination, I finally started my website and blogging.
 I will keep posting new blogs with tutorials, tips, DIY stuff, thoughts, etc. hopefully every week.
