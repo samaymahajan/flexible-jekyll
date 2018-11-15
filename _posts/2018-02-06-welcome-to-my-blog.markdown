@@ -4,6 +4,7 @@ title: "Welcome to My Blog!"
 date: 2018-02-06 09:54:00 +0530
 description: My first official blog. 
 img:   welcome.jpg
+tags: [personal, welcome]
 ---
 
 Welcome to My Blog...My Website...samaymahajan.com[www.samaymahajan.com]
