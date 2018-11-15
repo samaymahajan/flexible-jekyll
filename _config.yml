@@ -12,11 +12,14 @@ site-twitter: samaymahajan
 author: Samay Mahajan
 author-img: samay.jpg # add your photo
 about-author: DevOps Engineer & Full stack web developer. A quick learner and solution oriented person. Technology and Photography enthusiastic.
-social-twitter: samaymahajan
-social-facebook: samaymahajan
-social-github: samaymahajan
-social-linkedin: samaymahajan
 social-email: samaymahajan@gmail.com
+social-linkedin: samaymahajan
+social-github: samaymahajan
+social-facebook: samaymahajan
+#social-twitter: samaymahajan
+social-instagram: samaymahajan
+
+
 
 # Disqus
 discus-identifier: samaymahajan
